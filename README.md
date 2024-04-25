@@ -30,7 +30,4 @@ Q2. Since the trendline on airbags depicts a sharp increase since 2014, which au
 <img width="468" alt="image" src="https://github.com/ryannair02/MIST4610-GP-2/assets/150095773/190be1e3-85a9-4fed-a1ed-1d00a6b3da43">
 
 
-Tableau Packaged Workbook:
-
-
 
