@@ -16,8 +16,9 @@ Valladares, Matthew, [@MatthewValladares](https://github.com/MatthewValladares)
 
 Description: Our data was obtained from DATA.GOV and the database was called Recalls Data created by the Department of Transportation from the NHTSA campaign. The dimensions of our columns and rows are 27886 by 15 respectively. The various columns are: Report received Date, NHTSA ID, Recall Link, Manufacturer, Subject, Component, MFR Campaign Number, Recall Type, Potentially Affected, Recall Description, Consequence Summary, Corrective Action, Park Outside Advisory, Do Not Drive Advisory, Completion Rate % The DATA TYPES are: Date, Time, VARCHAR, TEXT, INT. 
 
-The dataset includes recall information related to specific NHTSA campaigns. Users can filter based on characteristics like manufacturer and component. The dataset can also be filtered by recall type: tires, vehicles, car seats, and equipment. The earliest campaign data is from 1966. The dataset displays the completion rate from the latest Recall Quarterly Report or Annual Report data from Year 2015 Quarter 1 (2015-1) onward.
+The dataset comprises recall details pertaining to particular NHTSA initiatives. Users have the option to refine their search based on criteria such as manufacturer and component. Additionally, filtering by recall category—tires, vehicles, car seats, and equipment—is available. The dataset encompasses campaign data dating back to 1966. It shows completion rates sourced from the most recent Recall Quarterly Report or Annual Report, starting from the first quarter of 2015 (2015-1) onwards.
 
+One manipulation that needed to be done on the data was the COUNT function. This was utilized to count the number of recalls during each year. Also, filters were implemented on the manufacturers and type of recall. We put these filters on to narrow down the recalls to the main safety features (seatbelts and airbags) along with only focusing on the main car manufacturers with notable amounts of recalls. Trend lines to better illustrate the purpose of the graphics had also been added.
 
 Questions:
 
