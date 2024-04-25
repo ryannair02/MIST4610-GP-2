@@ -35,3 +35,6 @@ Q2. Since the trendline on airbags depicts a sharp increase since 2014, which au
 Justification: 
 This visualization illustrates the companies (BMW, Chrysler, Ford, General Motors, Volkswagon) that are the more prevalent recall offenders as well as the count of the number of airbag-related recalls around their product offerings between the years 2014-2021.
 
+Conclusion: 
+
+According to our findings, between the years of 2014-2021, General Motors had the most number of recalls in the period (81) followed by Chrysler and Ford tied at 61 recalls, Volkswagon at 60, and BMW at 57 recalls. This in part maybe caused by the Takata airbag recall which originated in the year of 2014. These five companies were the overwhelming majority of all auto manufacturer companies' recalls.
