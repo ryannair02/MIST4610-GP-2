@@ -13,3 +13,11 @@ Nair, Ryan, [@ryannair02](https://github.com/ryannair02)
 Pasupuleti, Chaitanya, [@cp12312112](https://github.com/cp12312112)
 
 Valladares, Matthew, [@MatthewValladares](https://github.com/MatthewValladares)
+
+
+Q1. Over the last 30 years, what car safety recalls have been most prevalent, and when did they start increasing?
+<img width="397" alt="image" src="https://github.com/ryannair02/MIST4610-GP-2/assets/150095773/7b45a554-bb14-4190-865e-def8cbe0d51f">
+
+
+Q2. Since the trendline on airbags depicts a sharp increase since 2014, which auto manufacturer is responsible for the most number of recalls?![image](https://github.com/ryannair02/MIST4610-GP-2/assets/150095773/0b2ffced-e193-4094-8247-e1540195a93d)
+
